@@ -1200,6 +1200,12 @@
             ],
             "bioriver": "both"
         },
+        "flower-treeheath-*": {
+            "biorealm": [
+                "atlantic palearctic"
+            ],
+            "bioriver": "both"
+        },
         "flower-westerngorse-*": {
             "biorealm": [
                 "atlantic palearctic"
@@ -1818,6 +1824,12 @@
                 "pacific palearctic",
                 "australasian",
                 "oceanic"
+            ],
+            "bioriver": "both"
+        },
+        "pipeleaf:crop-pipeleaf-*": {
+            "biorealm": [
+                "atlantic palearctic"
             ],
             "bioriver": "both"
         },
