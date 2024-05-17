@@ -2622,6 +2622,13 @@
             ],
             "bioriver": "both"
         },
+        "blackpoplar": {
+            "biorealm": [
+                "atlantic palearctic",
+                "central palearctic"
+            ],
+            "bioriver": "both"
+        },
         "bluemahoe": {
             "biorealm": [
                 "atlantic nearctic"
@@ -2665,6 +2672,15 @@
         "coastdouglasfir": {
             "biorealm": [
                 "pacific nearctic"
+            ],
+            "bioriver": "both"
+        },
+         "coconuttree-*": {
+            "biorealm": [
+                "central palearctic",
+                "eastern palearctic",
+                "pacific palearctic",
+                "australasian"
             ],
             "bioriver": "both"
         },
